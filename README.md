@@ -14,16 +14,13 @@
 - roll.dart - виджет со случайным выбором карнитки и кнопкой
 - StyledText.dart - стиль текста
 **Как запустить**
-1. 
-``
+1. ``
 git clone https://github.com/0lba/Flutter_Lab5
 ``
-2. 
-``
+2. ``
 cd <Documents/Flutter/ma_app_barakov>
 ``
-3. 
-``
+3. ``
 flutter run -d chrome
 ``
 **Что изучили**
