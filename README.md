@@ -23,6 +23,7 @@ cd <Documents/Flutter/ma_app_barakov>
 3. ``
 flutter run -d chrome
 ``
+
 **Что изучили**
 1. Работа с assets и Random
 2. Управление состоянием через StatefulWidget и setState()
